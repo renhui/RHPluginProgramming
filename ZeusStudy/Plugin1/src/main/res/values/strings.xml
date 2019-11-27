@@ -1,0 +1,10 @@
+<resources>
+    <string name="myplugin1_app_name">MyPlugin1</string>
+
+    <string name="myplugin1_hello_world">Hello world!</string>
+    <string name="myplugin1_title_activity_main">MyPlugin1_MainActivity</string>
+
+
+    <string name="hello_world">看看是否能生效</string>
+    <string name="test">这是测试页面</string>
+</resources>

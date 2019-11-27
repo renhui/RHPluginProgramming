@@ -1,0 +1,22 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity" >
+
+    <Button
+        android:id="@+id/btnStartService1InPlugin1"
+        android:layout_width="158dp"
+        android:layout_height="wrap_content"
+        android:onClick="startService1InPlugin1"
+        android:text="Create TestService1 in Plugin1" />
+
+    <Button
+        android:id="@+id/btnStartActivityInPlugin1"
+        android:layout_width="158dp"
+        android:layout_height="wrap_content"
+        android:onClick="startActivityInPlugin1"
+        android:text="start Activity in Plugin1" />
+
+</LinearLayout>
